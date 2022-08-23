@@ -21,4 +21,11 @@ public class TestAllure {
         testMethod.secondMethod();
         testMethod.thridMethod();
     }
+    
+    @Test
+    public void firstTest123123() {
+        testMethod.firstMethod();
+        testMethod.secondMethod();
+        testMethod.thridMethod();
+    }
 }
