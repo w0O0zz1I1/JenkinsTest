@@ -8,6 +8,14 @@ public class TestAllure {
 
     TestMethod testMethod = new TestMethod();
 
+    
+    
+    
+    
+    
+    
+    
+    
     @Test
     public void firstTest() {
         testMethod.firstMethod();
